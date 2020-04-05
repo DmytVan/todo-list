@@ -1,0 +1,29 @@
+li {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5px;
+    margin-bottom: 10px;
+}
+
+input {
+    margin-right: 10px;
+}
+
+.done {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.removeBtn {
+    color: white;
+    background-color: red;
+    font-weight: bold;
+    border-radius: 50%;
+    min-height: 25px;
+    max-height: 25px;
+    min-width: 25px;
+    max-width: 25px;
+    padding: 0;
+    cursor: pointer;
+}
