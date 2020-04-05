@@ -7,5 +7,5 @@
 Его вид
 
 
-<img src='https://i.ibb.co/WvcczNP/image.png' alt='messenger'>
+<img src='https://i.ibb.co/ggj50gx/image.png' alt='messenger'>
 
